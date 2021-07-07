@@ -1,0 +1,16 @@
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\bin\Debug\net5.0\3.exe
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\bin\Debug\net5.0\3.deps.json
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\bin\Debug\net5.0\3.runtimeconfig.json
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\bin\Debug\net5.0\3.runtimeconfig.dev.json
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\bin\Debug\net5.0\3.dll
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\bin\Debug\net5.0\ref\3.dll
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\bin\Debug\net5.0\3.pdb
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\obj\Debug\net5.0\3.csproj.AssemblyReference.cache
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\obj\Debug\net5.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\obj\Debug\net5.0\3.AssemblyInfoInputs.cache
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\obj\Debug\net5.0\3.AssemblyInfo.cs
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\obj\Debug\net5.0\3.csproj.CoreCompileInputs.cache
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\obj\Debug\net5.0\3.dll
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\obj\Debug\net5.0\ref\3.dll
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\obj\Debug\net5.0\3.pdb
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-1\3\obj\Debug\net5.0\3.genruntimeconfig.cache
