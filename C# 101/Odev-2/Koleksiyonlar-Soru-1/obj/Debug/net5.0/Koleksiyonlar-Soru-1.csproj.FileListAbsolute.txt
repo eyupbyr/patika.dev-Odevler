@@ -1,0 +1,16 @@
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.exe
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.deps.json
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.runtimeconfig.json
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.runtimeconfig.dev.json
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.dll
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\ref\Koleksiyonlar-Soru-1.dll
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\bin\Debug\net5.0\Koleksiyonlar-Soru-1.pdb
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.csproj.AssemblyReference.cache
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.AssemblyInfoInputs.cache
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.AssemblyInfo.cs
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.csproj.CoreCompileInputs.cache
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.dll
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\ref\Koleksiyonlar-Soru-1.dll
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.pdb
+D:\GitHub\patika.dev-Odevler\C# 101\Odev-2\Koleksiyonlar-Soru-1\obj\Debug\net5.0\Koleksiyonlar-Soru-1.genruntimeconfig.cache
